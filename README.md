@@ -7,7 +7,9 @@
 
 ### Sobre mim!
 
-#### Trabalho como Desenvolvedor Front End e tenho experiencia com
+#### Desenvolvedor Front End
+
+<img src="https://simpleicons.org/icons/react.svg" alt="react" />
 
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-yellow])
 ![Typescript Badge](https://img.shields.io/badge/-Typescript-blue])
@@ -15,6 +17,5 @@
 ![ReactJs Badge](https://img.shields.io/badge/-React-9cf])
 ![NextJs Badge](https://img.shields.io/badge/-Next-inactive])
 
-Javascript, Typescript, VTEX, React Native e ReactJS.  
 
 
