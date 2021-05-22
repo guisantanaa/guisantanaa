@@ -11,9 +11,9 @@
 
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white&link])
 ![Typescript Badge](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=Typescript&logoColor=white&link])
-![ReactJs Badge](https://img.shields.io/badge/-React-9cf?style=flat-square&logo=React&logoColor=white&link]])
-![NextJs Badge](https://img.shields.io/badge/-Next-inactive?style=flat-square&logo=Next&logoColor=white&link]])
-![Vtex Badge](https://img.shields.io/badge/-Vtex-ff69b4?style=flat-square&logo=Vtex&logoColor=white&link]])
+![ReactJs Badge](https://img.shields.io/badge/-React-informational?style=flat-square&logo=React&logoColor=white&link]])
+![NextJs Badge](https://img.shields.io/badge/-Next-inactive?style=flat-square&logo=Nextjs&logoColor=white&link]])
+![Vtex Badge](https://img.shields.io/badge/-Vtex-ff69b4?style=flat-square&logo=Vtex.io&logoColor=white&link]])
 
 
 
