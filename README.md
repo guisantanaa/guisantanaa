@@ -7,7 +7,7 @@
 
 ### Sobre mim!
 
-## Trabalho como Desenvolvedor Front End e tenho experiencia com
+#### Trabalho como Desenvolvedor Front End e tenho experiencia com
 
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-yellow])
 ![Typescript Badge](https://img.shields.io/badge/-Typescript-blue])
