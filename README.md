@@ -9,9 +9,7 @@
 
 #### Desenvolvedor Front End
 
-<img src="https://simpleicons.org/icons/react.svg" width="20" height="20" alt="react" background-color="blue" />
-
-![Javascript Badge](https://img.shields.io/badge/-Javascript-#2B59C3])
+![Javascript Badge](https://img.shields.io/badge/-Javascript-2B59C3])
 ![Typescript Badge](https://img.shields.io/badge/-Typescript-blue])
 ![Vtex Badge](https://img.shields.io/badge/-Vtex-ff69b4])
 ![ReactJs Badge](https://img.shields.io/badge/-React-9cf])
