@@ -7,6 +7,10 @@
 
 ### Sobre mim!
 
-Eu sou desenvoldor Front End junior com experiência em Javascript, Typescript, VTEX, React Native e ReactJS.  
+Trabalho como Desenvolvedor Front End e tenho experiencia em [![Javascript Badge]https://img.shields.io/badge/javascript-javascript-yellow]
+
+
+
+Javascript, Typescript, VTEX, React Native e ReactJS.  
 
 
