@@ -7,7 +7,7 @@
 
 ### Sobre mim!
 
-#### Desenvolvedor Front End
+#### Sou Desenvolvedor Front End, cursei Gestão de Tecnologia da Informação e desde então venho me empenhado todos os dias na area da programação.
 
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white&link])
 ![Typescript Badge](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=Typescript&logoColor=white&link])
