@@ -1,4 +1,4 @@
-## Front End Develop, focusing on E-commerce has been present in the area since July 2021 :v:
+## Front End Develop, focusing on E-commerce has been present in the area since July 2021!
 
 ![Github Badge](https://github-readme-stats.vercel.app/api?username=guisantanaa&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)
 
